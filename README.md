@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Ankit 👋  <br>🎓 B.Tech IT student (3rd year)  <br>💻 Passionate about Data Structures & Algorithms, Web Development, and Problem Solving  <br>🏋️ Fitness enthusiast | Power building  <br><br>🔹 Solving problems on LeetCode  <br>🔹 Building projects to strengthen fundamentals  <br>🔹 Consistent learner, focused on long-term growth  <br><br>📫 Let's connect and build something impactful.<br>
+Hi, I'm Ankit 👋  <br>🎓 B.Tech IT student (4th year)  <br>💻 Passionate about Data Structures & Algorithms, Web Development, and Problem Solving  <br>🏋️ Fitness enthusiast | Power building  <br><br>🔹 Solving problems on LeetCode  <br>🔹 Building projects to strengthen fundamentals  <br>🔹 Consistent learner, focused on long-term growth  <br><br>📫 Let's connect and build something impactful.<br>
 
 
 ## 🌐 Socials:
